@@ -14,7 +14,6 @@
   <properties>
     <camunda.version>7.10.0</camunda.version>  
     <!--
-     hi my name is suresh
     Adjust if you want to use Camunda Enterprise Edition (EE):
     <camunda.version>7.10.0-ee</camunda.version>
     Make sure you also switch to EE repository below
