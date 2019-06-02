@@ -226,7 +226,7 @@
   </repositories>
 
   <build>
-    <finalName>$devops206</finalName>
+    <finalName>$devops206.war</finalName>
     <plugins>
       <plugin>
         <!-- Deploy to JBoss AS7: mvn clean jboss-as:deploy See also: https://docs.jboss.org/jbossas/7/plugins/maven/latest/examples/deployment-example.html -->
